@@ -1,0 +1,9 @@
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/dark.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/uselib.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/darknet.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/edit_cache.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/rebuild_cache.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/list_install_components.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/install.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/install/local.dir
+/Users/zpietrza/Desktop/ObjectDetection/object_detection_ml/YOLO/darknet/CMakeFiles/install/strip.dir
